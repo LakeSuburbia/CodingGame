@@ -19,7 +19,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 1 | [Add'em Up](https://www.codingame.com/training/easy/addem-up) | :x: Not Completed | Easy |  |
 | 2 | [ASCII Art](https://www.codingame.com/training/easy/ascii-art) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/AsciiArt.cpp)|
 | 3 | [Balanced ternary computer: encode](https://www.codingame.com/training/easy/balanced-ternary-computer-encode) | :x: Not Completed | Easy | |
-| 4 | [Bank Robbers](https://www.codingame.com/training/easy/bank-robbers) | :heavy_check_mark: Completed | Easy | [C++] (https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/BankRobbers.cpp) |
+| 4 | [Bank Robbers](https://www.codingame.com/training/easy/bank-robbers) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/BankRobbers.cpp) |
 | 5 | [Brackets, extreme edition.](https://www.codingame.com/training/easy/brackets-extreme-edition) | :x: Not Completed | Easy |  |
 | 6 | [Brick in the Wall](https://www.codingame.com/training/easy/brick-in-the-wall) | :x: Not Completed | Easy | |
 | 7 | [Bulk Email Generator](https://www.codingame.com/training/easy/bulk-email-generator) | :x: Not Completed | Easy | |
