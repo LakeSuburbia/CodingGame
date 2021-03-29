@@ -144,7 +144,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 73 | [Reversed Look-and-say](https://www.codingame.com/training/medium/reversed-look-and-say) | :x: Not Completed | Medium |  |
 | 74 | [Rubik](https://www.codingame.com/training/medium/rubik%C2%AE) | :x: Not Completed | Medium |  |
 | 75 | [Sandpile addition](https://www.codingame.com/training/medium/sandpile-addition) | :x: Not Completed | Medium |  |
-| 76 | [Scrabble](https://www.codingame.com/training/medium/scrabble) | :x: Not Completed Completed | Medium | 
+| 76 | [Scrabble](https://www.codingame.com/training/medium/scrabble) | :x: Not Completed | Medium | 
 | 77 | [Shadows of the Knight - Episode 1](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1) | :heavy_check_mark: Completed | Medium | [C](https://github.com/DrMad92/codingame/blob/master/puzzles/medium/shadows_of_the_night_e1/solution.c) |
 | 78 | [Short accounts make long friends](https://www.codingame.com/training/medium/short-accounts-make-long-friends) | :x: Not Completed | Medium |  |
 | 79 | [Simple fraction to mixed number](https://www.codingame.com/training/medium/simple-fraction-to-mixed-number) | :x: Not Completed | Medium |  |
@@ -160,7 +160,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 88 | [Text alignment](https://www.codingame.com/training/medium/text-alignment) | :x: Not Completed | Medium |  |
 | 89 | [The experience for creating puzzles](https://www.codingame.com/training/medium/the-experience-for-creating-puzzles) | :x: Not Completed | Medium |  |
 | 90 | [The Fastest](https://www.codingame.com/training/medium/the-fastest) | :x: Not Completed | Medium |  |
-| 91 | [The Gift](https://www.codingame.com/training/medium/the-gift) | :x: Not Completed Completed | Medium |  |
+| 91 | [The Gift](https://www.codingame.com/training/medium/the-gift) | :x: Not Completed | Medium |  |
 | 92 | [The Grand Festival - I](https://www.codingame.com/training/medium/the-grand-festival---i) | :x: Not Completed | Medium |  |
 | 93 | [The Grand Festival - II](https://www.codingame.com/training/medium/the-grand-festival---ii) | :x: Not Completed | Medium |  |
 | 94 | [The Last Crusade - Episode 1](https://www.codingame.com/training/medium/the-last-crusade-episode-1) | :x: Not Completed | Medium |  |
@@ -171,11 +171,10 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 99 | [These Romans are crazy!](https://www.codingame.com/training/medium/these-romans-are-crazy!) | :x: Not Completed | Medium |  |
 | 100 | [Trits (Balanced Ternary Computing)](https://www.codingame.com/training/medium/trits-balanced-ternary-computing) | :x: Not Completed | Medium |  |
 | 101 | [Vote counting](https://www.codingame.com/training/medium/vote-counting) | :x: Not Completed | Medium |       |
-| 102 | [War](https://www.codingame.com/training/medium/winamax-battle)  | :x: Not 
-Completed | Medium | [C](https://github.com/DrMad92/codingame/blob/master/puzzles/medium/war/solution.c) |
+| 102 | [War](https://www.codingame.com/training/medium/winamax-battle)  | :x: Not Completed | Medium |  |
 
 
-### Hard (2/106 completed)
+### Hard (0/106 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -284,7 +283,8 @@ Completed | Medium | [C](https://github.com/DrMad92/codingame/blob/master/puzzle
 | 104 | [X egg problem](https://www.codingame.com/training/hard/x-egg-problem)  | :x: Not Completed | Hard | |
 | 105 | [Zergling rush](https://www.codingame.com/training/hard/zergling-rush)  | :x: Not Completed | Hard | |
 | 106 | [Detective Pikaptcha Ep4](https://www.codingame.com/training/hard/detective-pikaptcha-ep4)  | :x: Not Completed | Hard |  |
-### Very hard (1/46 completed)
+
+### Very hard (0/46 completed)
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
 | 1 | [Binary neural network - Part 1](https://www.codingame.com/training/expert/binary-neural-network---part-1) | :x: Not Completed | Very Hard | |
