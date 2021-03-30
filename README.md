@@ -103,7 +103,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 32 | [Digit sum successor](https://www.codingame.com/training/medium/digit-sum-successor) | :x: Not Completed | Medium | |
 | 33 | [Divine!](https://www.codingame.com/training/medium/divine!) | :x: Not Completed | Medium | |
 | 34 | [Dominoes Path](https://www.codingame.com/training/medium/dominoes-path) | :x: Not Completed | Medium | |
-| 35 | [Don't Panic - Episode 1](https://www.codingame.com/training/medium/don't-panic-episode-1) | :heavy_check_mark: Completed | Medium | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C%2B%2B/DontPanic_EP1.cpp) |
+| 35 | [Don't Panic - Episode 1](https://www.codingame.com/training/medium/don't-panic-episode-1) | :heavy_check_mark: Completed | Medium | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C%2B%2B/DontPanic_EP1.cpp),[C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C/DontPanic_EP1.c), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/PYTHON/DontPanic_EP1.py) |
 | 36 | [Dwars standing on the shoulders of giants](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants) | :x: Not Completed | Medium | |
 | 37 | [Elementary cellular automaton](https://www.codingame.com/training/medium/elementary-cellular-automaton) | :x: Not Completed | Medium | |
 | 38 | [Enigma - 3 rotors without plugboard](https://www.codingame.com/training/medium/enigma---3-rotors-without-plugboard) | :x: Not Completed | Medium | |
@@ -122,7 +122,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 51 | [Locked in gear](https://www.codingame.com/training/medium/locked-in-gear) | :x: Not Completed | Medium | |
 | 52 | [Magic Square](https://www.codingame.com/training/medium/magic-square) | :x: Not Completed | Medium | |
 | 53 | [Magic stones](https://www.codingame.com/training/medium/magic-stones) | :x: Not Completed | Medium | |
-| 54 | [Mars Lander - Episode 2](https://www.codingame.com/training/medium/mars-lander-episode-2) | :heavy_check_mark: Completed | Medium | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C%2B%2B/Marslander_EP2.cpp) |
+| 54 | [Mars Lander - Episode 2](https://www.codingame.com/training/medium/mars-lander-episode-2) | :heavy_check_mark: Completed | Medium | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C%2B%2B/Marslander_EP2.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C/Marslander_EP2.c) |
 | 55 | [Maximum sub-sequence](https://www.codingame.com/training/medium/maximum-sub-sequence) | :x: Not Completed | Medium | |
 | 56 | [Mayan Calculation](https://www.codingame.com/training/medium/mayan-calculation) | :x: Not Completed | Medium | |
 | 57 | [Maze](https://www.codingame.com/training/medium/maze) | :x: Not Completed | Medium | |
