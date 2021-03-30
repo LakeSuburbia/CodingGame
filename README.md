@@ -61,7 +61,7 @@ In this reposority you will find my working solutions for puzzles on https://www
 | 48 | [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | :x: Not Completed | Easy |       |
 | 49 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016)  | :x: Not Completed | Easy |  |
 
-### Medium (13/103 completed)
+### Medium (7/103 completed)
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
 | 1 | [1010(1)](https://www.codingame.com/training/medium/10101) | :x: Not Completed | Medium | |
