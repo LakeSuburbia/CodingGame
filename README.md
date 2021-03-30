@@ -104,7 +104,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 33 | [Divine!](https://www.codingame.com/training/medium/divine!) | :x: Not Completed | Medium | |
 | 34 | [Dominoes Path](https://www.codingame.com/training/medium/dominoes-path) | :x: Not Completed | Medium | |
 | 35 | [Don't Panic - Episode 1](https://www.codingame.com/training/medium/don't-panic-episode-1) | :heavy_check_mark: Completed | Medium | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C%2B%2B/DontPanic_EP1.cpp) |
-| 36 | [Dwars standing on the shoulders of giants](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/DrMad92/codingame/blob/master/puzzles/medium/dwarfs_standing_on_the_shoulders_of_giants/solution.py)|
+| 36 | [Dwars standing on the shoulders of giants](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants) | :x: Not Completed | Medium | |
 | 37 | [Elementary cellular automaton](https://www.codingame.com/training/medium/elementary-cellular-automaton) | :x: Not Completed | Medium | |
 | 38 | [Enigma - 3 rotors without plugboard](https://www.codingame.com/training/medium/enigma---3-rotors-without-plugboard) | :x: Not Completed | Medium | |
 | 39 | [Find the replacement](https://www.codingame.com/training/medium/find-the-replacement) | :x: Not Completed | Medium | |
@@ -122,7 +122,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 51 | [Locked in gear](https://www.codingame.com/training/medium/locked-in-gear) | :x: Not Completed | Medium | |
 | 52 | [Magic Square](https://www.codingame.com/training/medium/magic-square) | :x: Not Completed | Medium | |
 | 53 | [Magic stones](https://www.codingame.com/training/medium/magic-stones) | :x: Not Completed | Medium | |
-| 54 | [Mars Lander - Episode 2](https://www.codingame.com/training/medium/mars-lander-episode-2) | :heavy_check_mark: Completed | Medium | [C++] (https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C%2B%2B/Marslander_EP2.cpp) |
+| 54 | [Mars Lander - Episode 2](https://www.codingame.com/training/medium/mars-lander-episode-2) | :heavy_check_mark: Completed | Medium | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C%2B%2B/Marslander_EP2.cpp) |
 | 55 | [Maximum sub-sequence](https://www.codingame.com/training/medium/maximum-sub-sequence) | :x: Not Completed | Medium | |
 | 56 | [Mayan Calculation](https://www.codingame.com/training/medium/mayan-calculation) | :x: Not Completed | Medium | |
 | 57 | [Maze](https://www.codingame.com/training/medium/maze) | :x: Not Completed | Medium | |
@@ -131,7 +131,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 60 | [Minimax excercise](https://www.codingame.com/training/medium/minimax-exercise) | :x: Not Completed | Medium | |
 | 61 | [Monthly System](https://www.codingame.com/training/medium/monthly-system) | :x: Not Completed | Medium | |
 | 62 | [Near-Palindromes](https://www.codingame.com/training/medium/near-palindromes) | :x: Not Completed | Medium | |
-| 63 | [Network Cabling](https://www.codingame.com/training/medium/network-cabling) | :heavy_check_mark: Completed | Medium | [C++] (https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C%2B%2B/NetworkCabling.cpp) |
+| 63 | [Network Cabling](https://www.codingame.com/training/medium/network-cabling) | :heavy_check_mark: Completed | Medium | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C%2B%2B/NetworkCabling.cpp) |
 | 64 | [Next car license plate ?](https://www.codingame.com/training/medium/next-car-license-plate) | :x: Not Completed | Medium |  |
 | 65 | [Number of letters in a number - Binary](https://www.codingame.com/training/medium/number-of-letters-in-a-number---binary) | :x: Not Completed | Medium |  |
 | 66 | [Number of paths between 2 points](https://www.codingame.com/training/medium/number-of-paths-between-2-points) | :x: Not Completed | Medium |  |
