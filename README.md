@@ -103,7 +103,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 32 | [Digit sum successor](https://www.codingame.com/training/medium/digit-sum-successor) | :x: Not Completed | Medium | |
 | 33 | [Divine!](https://www.codingame.com/training/medium/divine!) | :x: Not Completed | Medium | |
 | 34 | [Dominoes Path](https://www.codingame.com/training/medium/dominoes-path) | :x: Not Completed | Medium | |
-| 35 | [Don't Panic - Episode 1](https://www.codingame.com/training/medium/don't-panic-episode-1) | :heavy_check_mark: Completed | Medium | [C](https://github.com/DrMad92/codingame/tree/master/puzzles/medium/dont_panic_e1/solution.c) |
+| 35 | [Don't Panic - Episode 1](https://www.codingame.com/training/medium/don't-panic-episode-1) | :heavy_check_mark: Completed | Medium | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C%2B%2B/DontPanic_EP1.cpp) |
 | 36 | [Dwars standing on the shoulders of giants](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/DrMad92/codingame/blob/master/puzzles/medium/dwarfs_standing_on_the_shoulders_of_giants/solution.py)|
 | 37 | [Elementary cellular automaton](https://www.codingame.com/training/medium/elementary-cellular-automaton) | :x: Not Completed | Medium | |
 | 38 | [Enigma - 3 rotors without plugboard](https://www.codingame.com/training/medium/enigma---3-rotors-without-plugboard) | :x: Not Completed | Medium | |
@@ -122,7 +122,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 51 | [Locked in gear](https://www.codingame.com/training/medium/locked-in-gear) | :x: Not Completed | Medium | |
 | 52 | [Magic Square](https://www.codingame.com/training/medium/magic-square) | :x: Not Completed | Medium | |
 | 53 | [Magic stones](https://www.codingame.com/training/medium/magic-stones) | :x: Not Completed | Medium | |
-| 54 | [Mars Lander - Episode 2](https://www.codingame.com/training/medium/mars-lander-episode-2) | :x: Not Completed | Medium | |
+| 54 | [Mars Lander - Episode 2](https://www.codingame.com/training/medium/mars-lander-episode-2) | :heavy_check_mark: Completed | Medium | [C++] (https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C%2B%2B/Marslander_EP2.cpp) |
 | 55 | [Maximum sub-sequence](https://www.codingame.com/training/medium/maximum-sub-sequence) | :x: Not Completed | Medium | |
 | 56 | [Mayan Calculation](https://www.codingame.com/training/medium/mayan-calculation) | :x: Not Completed | Medium | |
 | 57 | [Maze](https://www.codingame.com/training/medium/maze) | :x: Not Completed | Medium | |
@@ -131,7 +131,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 60 | [Minimax excercise](https://www.codingame.com/training/medium/minimax-exercise) | :x: Not Completed | Medium | |
 | 61 | [Monthly System](https://www.codingame.com/training/medium/monthly-system) | :x: Not Completed | Medium | |
 | 62 | [Near-Palindromes](https://www.codingame.com/training/medium/near-palindromes) | :x: Not Completed | Medium | |
-| 63 | [Network Cabling](https://www.codingame.com/training/medium/network-cabling) | :x: Not Completed | Medium |  |
+| 63 | [Network Cabling](https://www.codingame.com/training/medium/network-cabling) | :heavy_check_mark: Completed | Medium | [C++] (https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C%2B%2B/NetworkCabling.cpp) |
 | 64 | [Next car license plate ?](https://www.codingame.com/training/medium/next-car-license-plate) | :x: Not Completed | Medium |  |
 | 65 | [Number of letters in a number - Binary](https://www.codingame.com/training/medium/number-of-letters-in-a-number---binary) | :x: Not Completed | Medium |  |
 | 66 | [Number of paths between 2 points](https://www.codingame.com/training/medium/number-of-paths-between-2-points) | :x: Not Completed | Medium |  |
@@ -145,7 +145,7 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 74 | [Rubik](https://www.codingame.com/training/medium/rubik%C2%AE) | :x: Not Completed | Medium |  |
 | 75 | [Sandpile addition](https://www.codingame.com/training/medium/sandpile-addition) | :x: Not Completed | Medium |  |
 | 76 | [Scrabble](https://www.codingame.com/training/medium/scrabble) | :x: Not Completed | Medium | 
-| 77 | [Shadows of the Knight - Episode 1](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1) | :heavy_check_mark: Completed | Medium | [C](https://github.com/DrMad92/codingame/blob/master/puzzles/medium/shadows_of_the_night_e1/solution.c) |
+| 77 | [Shadows of the Knight - Episode 1](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1) | :heavy_check_mark: Completed | Medium | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C%2B%2B/ShadowsOfTheKnight_EP1.cpp) |
 | 78 | [Short accounts make long friends](https://www.codingame.com/training/medium/short-accounts-make-long-friends) | :x: Not Completed | Medium |  |
 | 79 | [Simple fraction to mixed number](https://www.codingame.com/training/medium/simple-fraction-to-mixed-number) | :x: Not Completed | Medium |  |
 | 80 | [Simplified Monopoly Turns Prediction](https://www.codingame.com/training/medium/simplified-monopoly-turns-prediction) | :x: Not Completed | Medium |  |
@@ -153,8 +153,8 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 82 | [Snake encoding](https://www.codingame.com/training/medium/snake-encoding) | :x: Not Completed | Medium |  |
 | 83 | [Stock Exchange Losses](https://www.codingame.com/training/medium/stock-exchange-losses) | :heavy_check_mark: Completed | Medium | [C](https://github.com/DrMad92/codingame/blob/master/puzzles/medium/stock_exchange_losses/solution.c) |
 | 84 | [Straddling Checkerboard Cryptography](https://www.codingame.com/training/medium/straddling-checkerboard-cryptography) | :x: Not Completed | Medium |  |
-| 85 | [Sum of divisors](https://www.codingame.com/training/medium/sum-of-divisors) | :x: Not Completed | Medium |  |
-| 86 | [Target Firing](https://www.codingame.com/training/medium/target-firing) | :heavy_check_mark: Completed | Medium |  |
+| 85 | [Sum of divisors](https://www.codingame.com/training/medium/sum-of-divisors) | :heavy_check_mark: Completed | Medium | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C%2B%2B/SumOfDivisors.cpp) |
+| 86 | [Target Firing](https://www.codingame.com/training/medium/target-firing) | :heavy_check_mark: Completed | Medium | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C%2B%2B/TargetFiring.cpp)  |
 | 86 | [Teads Sponsored Contest](https://www.codingame.com/training/medium/teads-sponsored-contest) | :x: Not Completed | Medium |  |
 | 87 | [Telephone Numbers](https://www.codingame.com/training/medium/telephone-numbers) | :x: Not Completed | Medium |  |
 | 88 | [Text alignment](https://www.codingame.com/training/medium/text-alignment) | :x: Not Completed | Medium |  |
