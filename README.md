@@ -99,7 +99,7 @@ In this reposority you will find my working solutions for puzzles on https://www
 | 33 | [Digit sum successor](https://www.codingame.com/training/medium/digit-sum-successor) | :x: Not Completed | Medium | |
 | 34 | [Divine!](https://www.codingame.com/training/medium/divine!) | :x: Not Completed | Medium | |
 | 35 | [Dominoes Path](https://www.codingame.com/training/medium/dominoes-path) | :x: Not Completed | Medium | |
-| 36 | [Don't Panic - Episode 1](https://www.codingame.com/training/medium/don't-panic-episode-1) | :heavy_check_mark: Completed | Medium | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C%2B%2B/DontPanic_EP1.cpp),[C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C/DontPanic_EP1.c), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/PYTHON/DontPanic_EP1.py) |
+| 36 | [Don't Panic - Episode 1](https://www.codingame.com/training/medium/don't-panic-episode-1) | :heavy_check_mark: Completed | Medium | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C%2B%2B/DontPanic_EP1.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C/DontPanic_EP1.c), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/PYTHON/DontPanic_EP1.py) |
 | 37 | [Dwars standing on the shoulders of giants](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants) | :x: Not Completed | Medium | |
 | 38 | [Elementary cellular automaton](https://www.codingame.com/training/medium/elementary-cellular-automaton) | :x: Not Completed | Medium | |
 | 39 | [Enigma - 3 rotors without plugboard](https://www.codingame.com/training/medium/enigma---3-rotors-without-plugboard) | :x: Not Completed | Medium | |
