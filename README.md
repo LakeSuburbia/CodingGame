@@ -23,8 +23,8 @@ In this reposority you will find my working solutions for puzzles on https://www
 | 10 | [Darts](https://www.codingame.com/training/easy/darts) | :x: Not Completed | Easy | |
 | 11 | [Dead men's shot](https://www.codingame.com/training/easy/dead-mens-shot) | :x: Not Completed | Easy | |
 | 12 | [Defibrillators](https://www.codingame.com/training/easy/defibrillators) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/Defibrillators.py) |
-| 13 | [Detective Pikaptcha Ep1](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)  | :x: Not Completed | Easy | [Python](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/detective_pikaptcha_ep1/solution.py) |
-| 14 | [Detective Pikaptcha Ep2](https://www.codingame.com/training/easy/detective-pikaptcha-ep2)  | :x: Not Completed | Easy | [Python](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/detective_pikaptcha_ep2/solution.py) |
+| 13 | [Detective Pikaptcha Ep1](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)  | :x: Not Completed | Easy |  |
+| 14 | [Detective Pikaptcha Ep2](https://www.codingame.com/training/easy/detective-pikaptcha-ep2)  | :x: Not Completed | Easy |  |
 | 15 | [Disordered First Contact](https://www.codingame.com/training/easy/disordered-first-contact) | :x: Not Completed | Easy | |
 | 16 | [Encryption/Decryption of Enigma Machine](https://www.codingame.com/training/easy/encryptiondecryption-of-enigma-machine) | :x: Not Completed | Easy | |
 | 17 | [Expand the polynomial](https://www.codingame.com/training/easy/expand-the-polynomial) | :x: Not Completed | Easy | |
