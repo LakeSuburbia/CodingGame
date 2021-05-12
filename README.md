@@ -7,7 +7,7 @@ In this reposority you will find my working solutions for puzzles on https://www
 
 ## Puzzles
 
-### Easy (17/50 completed)
+### Easy (18/50 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -49,7 +49,7 @@ In this reposority you will find my working solutions for puzzles on https://www
 | 36 | [Pirate's treasure](https://www.codingame.com/training/easy/pirates-treasure) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/PiratesTreasure.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/PiratesTreasure.c) |
 | 37 | [Power of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/PowerOfThor_EP1.Cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/PowerOfThor_EP1.C), [Java](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Java/PowerOfThor_EP1.java), [Ruby](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Ruby/PowerOfThor_EP1.rb) |
 | 38 | [Rectangular block spinner](https://www.codingame.com/training/easy/rectangular-block-spinner) | :x: Not Completed | Easy |  |
-| 39 | [Rooks Movements](https://www.codingame.com/training/easy/rooks-movements) | :x: Not Completed | Easy |  |
+| 39 | [Rooks Movements](https://www.codingame.com/training/easy/rooks-movements) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/RooksMovement.py) |
 | 40 | [Rugby score](https://www.codingame.com/training/easy/rugby-score) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/RugbyScore.cpp) |
 | 41 | [Self-driving car testing](https://www.codingame.com/training/easy/self-driving-car-testing) | :x: Not Completed | Easy |  |
 | 42 | [Simple Awalé](https://www.codingame.com/training/easy/simple-awale) | :x: Not Completed | Easy |  |
