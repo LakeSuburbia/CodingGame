@@ -7,7 +7,7 @@ In this reposority you will find my working solutions for puzzles on https://www
 
 ## Puzzles
 
-### Easy (18/50 completed)
+### Easy (19/50 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -38,8 +38,8 @@ In this reposority you will find my working solutions for puzzles on https://www
 | 25 | [Jack Silver: The Casino](https://www.codingame.com/training/easy/jack-silver-the-casino) | :x: Not Completed | Easy | |
 | 26 | [Lumen](https://www.codingame.com/training/easy/lumen) | :x: Not Completed | Easy | |
 | 27 | [Mars Lander - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/Marslander_EP1.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/Marslander_EP1.c), [Java](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Java/Marslander_EP1.java), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/Marslander_EP1.py) |
-| 28 | [May the Triforce be with you!](https://www.codingame.com/training/easy/may-the-triforce-be-with-you) | :x: Not Completed | Easy | |
-| 29 | [MIME Type](https://www.codingame.com/training/easy/mime-type) | :x: Not Completed | Easy |  |
+| 28 | [May the Triforce be with you!](https://www.codingame.com/training/easy/may-the-triforce-be-with-you) | :heavy_check_mark: Completed | Easy | |
+| 29 | [MIME Type](https://www.codingame.com/training/easy/mime-type) | :x: Not Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/MIMEType.py) |
 | 30 | [Morellet's random lines](https://www.codingame.com/training/easy/morellets-random-lines) | :x: Not Completed | Easy | |
 | 31 | [Mountain Map](https://www.codingame.com/training/easy/mountain-map) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/tree/main/Puzzles/EASY/Python)
 | 32 | [Nature of quadrilaterals](https://www.codingame.com/training/easy/nature-of-quadrilaterals) | :x: Not Completed | Easy | |
