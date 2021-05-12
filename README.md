@@ -7,7 +7,7 @@ In this reposority you will find my working solutions for puzzles on https://www
 
 ## Puzzles
 
-### Easy (19/50 completed)
+### Easy (20/50 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -59,7 +59,7 @@ In this reposority you will find my working solutions for puzzles on https://www
 | 46 | [The River I.](https://www.codingame.com/training/easy/the-river-i-) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/TheRiverI.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/TheRiverI.C), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/TheRiverI.py) |
 | 47 | [The River II.](https://www.codingame.com/training/easy/the-river-ii-) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/TheRiverII.cpp), [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/TheRiverII.C)  |
 | 48 | [The Travelling Salesman Problem](https://www.codingame.com/training/easy/the-travelling-salesman-problem) | :x: Not Completed | Easy |  |
-| 49 | [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | :x: Not Completed | Easy |       |
+| 49 | [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | ✔️ Completed | Easy |  [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/WhatsSoComplexAboutTheMandelbrotSet.cpp), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/WhatsSoComplexAboutTheMandelbrotSet.py)     |
 | 50 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016)  | :x: Not Completed | Easy |  |
 
 ### Medium (7/103 completed)
