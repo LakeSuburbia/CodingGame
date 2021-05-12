@@ -1,71 +1,67 @@
-[![CodinGame](/CodinGame.png)](https://www.codingame.com/ "CodinGame")
-
-<br>
-
 # CodinGame Solutions
 
 ## Introduction
 
-In this reposority you will find my working solutions for puzzles and bots for contests on the platform https://www.codingame.com/.
+In this reposority you will find my working solutions for puzzles on https://www.codingame.com/.
 
 
 ## Puzzles
 
-### Easy (18/49 completed)
+### Easy (15/49 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
-| 0 | [1x1x1 Rubik's cube movements](https://www.codingame.com/training/easy/111-rubiks-cube-movements) | :x: Not Completed | Easy |  |
-| 1 | [Add'em Up](https://www.codingame.com/training/easy/addem-up) | :x: Not Completed | Easy |  |
-| 2 | [ASCII Art](https://www.codingame.com/training/easy/ascii-art) | :heavy_check_mark: Completed | Easy | [C](https://github.com/DrMad92/codingame/tree/master/puzzles/easy/ascii_art/solution.c), [Python](https://github.com/DrMad92/codingame/tree/master/puzzles/easy/ascii_art/solution.py) |
-| 3 | [Balanced ternary computer: encode](https://www.codingame.com/training/easy/balanced-ternary-computer-encode) | :x: Not Completed | Easy | |
-| 4 | [Bank Robbers](https://www.codingame.com/training/easy/bank-robbers) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/bank_robbers/solution.py) |
-| 5 | [Brackets, extreme edition.](https://www.codingame.com/training/easy/brackets-extreme-edition) | :x: Not Completed | Easy |  |
-| 6 | [Brick in the Wall](https://www.codingame.com/training/easy/brick-in-the-wall) | :x: Not Completed | Easy | |
-| 7 | [Bulk Email Generator](https://www.codingame.com/training/easy/bulk-email-generator) | :x: Not Completed | Easy | |
-| 8 | [Chuck Norris](https://www.codingame.com/training/easy/chuck-norris) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/chuck_norris/solution.py) |
-| 9 | [Darts](https://www.codingame.com/training/easy/darts) | :x: Not Completed | Easy | |
-| 10 | [Dead men's shot](https://www.codingame.com/training/easy/dead-mens-shot) | :x: Not Completed | Easy | |
-| 11 | [Defibrillators](https://www.codingame.com/training/easy/defibrillators) | :heavy_check_mark: Completed | Easy | [C](https://github.com/DrMad92/codingame/tree/master/puzzles/easy/defibrillators/solution.c), [Python](https://github.com/DrMad92/codingame/tree/master/puzzles/easy/defibrillators/solution.py) |
-| 47 | [Detective Pikaptcha Ep1](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)  | :x: Not Completed | Easy | [Python](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/detective_pikaptcha_ep1/solution.py) |
-| 48 | [Detective Pikaptcha Ep2](https://www.codingame.com/training/easy/detective-pikaptcha-ep2)  | :x: Not Completed | Easy | [Python](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/detective_pikaptcha_ep2/solution.py) |
-| 12 | [Disordered First Contact](https://www.codingame.com/training/easy/disordered-first-contact) | :x: Not Completed | Easy | |
-| 13 | [Encryption/Decryption of Enigma Machine](https://www.codingame.com/training/easy/encryptiondecryption-of-enigma-machine) | :x: Not Completed | Easy | |
-| 14 | [Expand the polynomial](https://www.codingame.com/training/easy/expand-the-polynomial) | :x: Not Completed | Easy | |
-| 15 | [Ghost Legs](https://www.codingame.com/training/easy/ghost-legs) | :x: Not Completed | Easy | |
-| 16 | [Gravity Tumbler](https://www.codingame.com/training/easy/gravity-tumbler) | :x: Not Completed | Easy | |
-| 17 | [Guessing n Cheating](https://www.codingame.com/training/easy/guessing-n-cheating) | :x: Not Completed | Easy | |
-| 18 | [Horse-racing Duals](https://www.codingame.com/training/easy/horse-racing-duals) | :heavy_check_mark: Completed | Easy | [C](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/horse_racing_duals/solution.c), [Python](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/horse_racing_duals/solution.py) |
-| 19 | [Horse-racing Hyperduals](https://www.codingame.com/training/easy/horse-racing-hyperduals) | :heavy_check_mark: Completed | Easy | |
-| 20 | [How time flies](https://www.codingame.com/training/easy/how-time-flies) | :x: Not Completed | Easy | |
-| 21 | [ISBN Check digit](https://www.codingame.com/training/easy/isbn-check-digit) | :x: Not Completed | Easy | |
-| 22 | [Jack Silver: The Casino](https://www.codingame.com/training/easy/jack-silver-the-casino) | :x: Not Completed | Easy | |
-| 23 | [Lumen](https://www.codingame.com/training/easy/lumen) | :x: Not Completed | Easy | |
-| 24 | [Mars Lander - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1) | :heavy_check_mark: Completed | Easy | [C](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/mars_lander_e1/solution.c) |
-| 25 | [May the Triforce be with you!](https://www.codingame.com/training/easy/may-the-triforce-be-with-you) | :x: Not Completed | Easy | |
-| 26 | [MIME Type](https://www.codingame.com/training/easy/mime-type) | :x: Not Completed | Easy |  |
-| 27 | [Morellet's random lines](https://www.codingame.com/training/easy/morellets-random-lines) | :x: Not Completed | Easy | |
-| 28 | [Nature of quadrilaterals](https://www.codingame.com/training/easy/nature-of-quadrilaterals) | :x: Not Completed | Easy | |
-| 29 | [Onboarding](https://www.codingame.com/training/easy/onboarding) | :heavy_check_mark: Completed | Easy | [GO](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/onboarding/solution.go) |
-| 30 | [orDer oF succeSsion](https://www.codingame.com/training/easy/order-of-succession) | :x: Not Completed | Easy | |
-| 31 | [Organic Compounds](https://www.codingame.com/training/easy/organic-compounds) | :x: Not Completed | Easy |  |
-| 32 | [Pirate's treasure](https://www.codingame.com/training/easy/pirates-treasure) | :heavy_check_mark: Completed | Easy |  |
-| 33 | [Power of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1) | :heavy_check_mark: Completed | Easy | [C](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/power_of_thor/solution.c), [Python](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/power_of_thor/solution.py) |
-| 34 | [Rectangular block spinner](https://www.codingame.com/training/easy/rectangular-block-spinner) | :x: Not Completed | Easy |  |
-| 35 | [Rooks Movements](https://www.codingame.com/training/easy/rooks-movements) | :x: Not Completed | Easy |  |
-| 36 | [Rugby score](https://www.codingame.com/training/easy/rugby-score) | :heavy_check_mark: Completed | Easy |  |
-| 37 | [Self-driving car testing](https://www.codingame.com/training/easy/self-driving-car-testing) | :x: Not Completed | Easy |  |
-| 38 | [Simple Awalé](https://www.codingame.com/training/easy/simple-awale) | :x: Not Completed | Easy |  |
-| 39 | [Temperatures](https://www.codingame.com/training/easy/temperatures) | :heavy_check_mark: Completed | Easy | [C](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/temperatures/solution.c), [Python](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/temperatures/solution.py) |
-| 40 | [Text formatting](https://www.codingame.com/training/easy/text-formatting) | :x: Not Completed | Easy | |
-| 41 | [The Descent](https://www.codingame.com/training/easy/the-descent) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/the_descent/solution.cpp), [Python](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/the_descent/solution.py) |
-| 42 | [The River I.](https://www.codingame.com/training/easy/the-river-i-) | :heavy_check_mark: Completed | Easy | |
-| 43 | [The River II.](https://www.codingame.com/training/easy/the-river-ii-) | :heavy_check_mark: Completed | Easy | |
-| 44 | [The Travelling Salesman Problem](https://www.codingame.com/training/easy/the-travelling-salesman-problem) | :x: Not Completed | Easy |  |
-| 45 | [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | :x: Not Completed | Easy |       |
-| 46 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016)  | :x: Not Completed | Easy |  |
+| 1 | [1x1x1 Rubik's cube movements](https://www.codingame.com/training/easy/111-rubiks-cube-movements) | :x: Not Completed | Easy |  |
+| 2 | [Add'em Up](https://www.codingame.com/training/easy/addem-up) | :x: Not Completed | Easy |  |
+| 3 | [ASCII Art](https://www.codingame.com/training/easy/ascii-art) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/AsciiArt.cpp)|
+| 4 | [Balanced ternary computer: encode](https://www.codingame.com/training/easy/balanced-ternary-computer-encode) | :x: Not Completed | Easy | |
+| 5 | [Bank Robbers](https://www.codingame.com/training/easy/bank-robbers) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/BankRobbers.cpp) |
+| 6 | [Brackets, extreme edition.](https://www.codingame.com/training/easy/brackets-extreme-edition) | :x: Not Completed | Easy |  |
+| 7 | [Brick in the Wall](https://www.codingame.com/training/easy/brick-in-the-wall) | :x: Not Completed | Easy | |
+| 8 | [Bulk Email Generator](https://www.codingame.com/training/easy/bulk-email-generator) | :x: Not Completed | Easy | |
+| 9 | [Chuck Norris](https://www.codingame.com/training/easy/chuck-norris) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/ChuckNorris.cpp),  |
+| 10 | [Darts](https://www.codingame.com/training/easy/darts) | :x: Not Completed | Easy | |
+| 11 | [Dead men's shot](https://www.codingame.com/training/easy/dead-mens-shot) | :x: Not Completed | Easy | |
+| 12 | [Defibrillators](https://www.codingame.com/training/easy/defibrillators) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/Defibrillators.py) |
+| 13 | [Detective Pikaptcha Ep1](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)  | :x: Not Completed | Easy | [Python](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/detective_pikaptcha_ep1/solution.py) |
+| 14 | [Detective Pikaptcha Ep2](https://www.codingame.com/training/easy/detective-pikaptcha-ep2)  | :x: Not Completed | Easy | [Python](https://github.com/DrMad92/codingame/blob/master/puzzles/easy/detective_pikaptcha_ep2/solution.py) |
+| 15 | [Disordered First Contact](https://www.codingame.com/training/easy/disordered-first-contact) | :x: Not Completed | Easy | |
+| 16 | [Encryption/Decryption of Enigma Machine](https://www.codingame.com/training/easy/encryptiondecryption-of-enigma-machine) | :x: Not Completed | Easy | |
+| 17 | [Expand the polynomial](https://www.codingame.com/training/easy/expand-the-polynomial) | :x: Not Completed | Easy | |
+| 18 | [Ghost Legs](https://www.codingame.com/training/easy/ghost-legs) | :x: Not Completed | Easy | |
+| 19 | [Gravity Tumbler](https://www.codingame.com/training/easy/gravity-tumbler) | :x: Not Completed | Easy | |
+| 20 | [Guessing n Cheating](https://www.codingame.com/training/easy/guessing-n-cheating) | :x: Not Completed | Easy | |
+| 21 | [Horse-racing Duals](https://www.codingame.com/training/easy/horse-racing-duals) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/HorseRacingDuels.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/HorseRacingDuels.c), [Java](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Java/HorseRacingDuels.java), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/HorseRacingDuels.py)  |
+| 22 | [Horse-racing Hyperduals](https://www.codingame.com/training/easy/horse-racing-hyperduals) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/HorseRacingHyperduels.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/HorseRacingHyperduels.c) |
+| 23 | [How time flies](https://www.codingame.com/training/easy/how-time-flies) | :x: Not Completed | Easy | |
+| 24 | [ISBN Check digit](https://www.codingame.com/training/easy/isbn-check-digit) | :x: Not Completed | Easy | |
+| 25 | [Jack Silver: The Casino](https://www.codingame.com/training/easy/jack-silver-the-casino) | :x: Not Completed | Easy | |
+| 26 | [Lumen](https://www.codingame.com/training/easy/lumen) | :x: Not Completed | Easy | |
+| 27 | [Mars Lander - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/Marslander_EP1.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/Marslander_EP1.c), [Java](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Java/Marslander_EP1.java), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/Marslander_EP1.py) |
+| 28 | [May the Triforce be with you!](https://www.codingame.com/training/easy/may-the-triforce-be-with-you) | :x: Not Completed | Easy | |
+| 29 | [MIME Type](https://www.codingame.com/training/easy/mime-type) | :x: Not Completed | Easy |  |
+| 30 | [Morellet's random lines](https://www.codingame.com/training/easy/morellets-random-lines) | :x: Not Completed | Easy | |
+| 31 | [Nature of quadrilaterals](https://www.codingame.com/training/easy/nature-of-quadrilaterals) | :x: Not Completed | Easy | |
+| 32 | [Onboarding](https://www.codingame.com/training/easy/onboarding) | :heavy_check_mark: Completed | Easy | All |
+| 33 | [orDer oF succeSsion](https://www.codingame.com/training/easy/order-of-succession) | :x: Not Completed | Easy | |
+| 34 | [Organic Compounds](https://www.codingame.com/training/easy/organic-compounds) | :x: Not Completed | Easy |  |
+| 35 | [Pirate's treasure](https://www.codingame.com/training/easy/pirates-treasure) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/PiratesTreasure.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/PiratesTreasure.c) |
+| 36 | [Power of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/PowerOfThor_EP1.Cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/PowerOfThor_EP1.C), [Java](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Java/PowerOfThor_EP1.java), [Ruby](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Ruby/PowerOfThor_EP1.rb) |
+| 37 | [Rectangular block spinner](https://www.codingame.com/training/easy/rectangular-block-spinner) | :x: Not Completed | Easy |  |
+| 38 | [Rooks Movements](https://www.codingame.com/training/easy/rooks-movements) | :x: Not Completed | Easy |  |
+| 39 | [Rugby score](https://www.codingame.com/training/easy/rugby-score) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/RugbyScore.cpp) |
+| 40 | [Self-driving car testing](https://www.codingame.com/training/easy/self-driving-car-testing) | :x: Not Completed | Easy |  |
+| 41 | [Simple Awalé](https://www.codingame.com/training/easy/simple-awale) | :x: Not Completed | Easy |  |
+| 42 | [Temperatures](https://www.codingame.com/training/easy/temperatures) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/Temperatures.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/Temperatures.c), [Java](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Java/Temperatures.java), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/Temperatures.py) |
+| 43 | [Text formatting](https://www.codingame.com/training/easy/text-formatting) | :x: Not Completed | Easy | |
+| 44 | [The Descent](https://www.codingame.com/training/easy/the-descent) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/TheDescent.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/TheDescent.c) , [Java](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Java/TheDescent.java) , [Javascript](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Javascript/TheDescent.js) , [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/TheDescent.py) , [Typescript](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Typescript/TheDescent.ts)  |
+| 45 | [The River I.](https://www.codingame.com/training/easy/the-river-i-) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/TheRiverI.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/TheRiverI.C), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/TheRiverI.py) |
+| 46 | [The River II.](https://www.codingame.com/training/easy/the-river-ii-) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/TheRiverII.cpp), [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/TheRiverII.C)  |
+| 47 | [The Travelling Salesman Problem](https://www.codingame.com/training/easy/the-travelling-salesman-problem) | :x: Not Completed | Easy |  |
+| 48 | [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | :x: Not Completed | Easy |       |
+| 49 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016)  | :x: Not Completed | Easy |  |
 
-### Medium (13/103 completed)
+### Medium (7/103 completed)
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
 | 1 | [1010(1)](https://www.codingame.com/training/medium/10101) | :x: Not Completed | Medium | |
@@ -98,80 +94,80 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 28 | [DDCG Mapper](https://www.codingame.com/training/medium/ddcg-mapper) | :x: Not Completed | Medium | |
 | 29 | [De-FizzBuzzer](https://www.codingame.com/training/medium/de-fizzbuzzer) | :x: Not Completed | Medium | |
 | 30 | [Depot organization](https://www.codingame.com/training/medium/depot-organization) | :x: Not Completed | Medium | |
-| 103 | [Detective Pikaptcha Ep3](https://www.codingame.com/training/medium/detective-pikaptcha-ep3)  | :x: Not Completed | Medium |  |
-| 31 | [Dice probability calculator](https://www.codingame.com/training/medium/dice-probability-calculator) | :x: Not Completed | Medium | |
-| 32 | [Digit sum successor](https://www.codingame.com/training/medium/digit-sum-successor) | :x: Not Completed | Medium | |
-| 33 | [Divine!](https://www.codingame.com/training/medium/divine!) | :x: Not Completed | Medium | |
-| 34 | [Dominoes Path](https://www.codingame.com/training/medium/dominoes-path) | :x: Not Completed | Medium | |
-| 35 | [Don't Panic - Episode 1](https://www.codingame.com/training/medium/don't-panic-episode-1) | :heavy_check_mark: Completed | Medium | [C](https://github.com/DrMad92/codingame/tree/master/puzzles/medium/dont_panic_e1/solution.c) |
-| 36 | [Dwars standing on the shoulders of giants](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants) | :heavy_check_mark: Completed | Medium | [Python](https://github.com/DrMad92/codingame/blob/master/puzzles/medium/dwarfs_standing_on_the_shoulders_of_giants/solution.py)|
-| 37 | [Elementary cellular automaton](https://www.codingame.com/training/medium/elementary-cellular-automaton) | :x: Not Completed | Medium | |
-| 38 | [Enigma - 3 rotors without plugboard](https://www.codingame.com/training/medium/enigma---3-rotors-without-plugboard) | :x: Not Completed | Medium | |
-| 39 | [Find the replacement](https://www.codingame.com/training/medium/find-the-replacement) | :x: Not Completed | Medium | |
-| 40 | [Flood fill Example](https://www.codingame.com/training/medium/flood-fill-example) | :x: Not Completed | Medium | |
-| 41 | [Folding Paper](https://www.codingame.com/training/medium/folding-paper) | :x: Not Completed | Medium | |
-| 42 | [Game of life](https://www.codingame.com/training/medium/game-of-life) | :x: Not Completed | Medium | |
-| 43 | [Gravity](https://www.codingame.com/training/medium/gravity) | :x: Not Completed | Medium | |
-| 44 | [Gravity Centrifuge](https://www.codingame.com/training/medium/gravity-centrifuge) | :x: Not Completed | Medium | |
-| 45 | [Gravity Centrifuge Tuning](https://www.codingame.com/training/medium/gravity-centrifuge-tuning) | :x: Not Completed | Medium | |
-| 46 | [Hidden word](https://www.codingame.com/training/medium/hidden-word) | :x: Not Completed | Medium | |
-| 47 | [Horse-hyperracing Hyperduals](https://www.codingame.com/training/medium/horse-hyperracing-hyperduals) | :x: Not Completed | Medium | |
-| 48 | [HTML table cell split](https://www.codingame.com/training/medium/html-table-cell-split) | :x: Not Completed | Medium | |
-| 49 | [Kaprekar's routine](https://www.codingame.com/training/medium/kaprekars-routine) | :x: Not Completed | Medium | |
-| 50 | [Langton's ant](https://www.codingame.com/training/medium/langton's-ant) | :x: Not Completed | Medium | |
-| 51 | [Locked in gear](https://www.codingame.com/training/medium/locked-in-gear) | :x: Not Completed | Medium | |
-| 52 | [Magic Square](https://www.codingame.com/training/medium/magic-square) | :x: Not Completed | Medium | |
-| 53 | [Magic stones](https://www.codingame.com/training/medium/magic-stones) | :x: Not Completed | Medium | |
-| 54 | [Mars Lander - Episode 2](https://www.codingame.com/training/medium/mars-lander-episode-2) | :x: Not Completed | Medium | |
-| 55 | [Maximum sub-sequence](https://www.codingame.com/training/medium/maximum-sub-sequence) | :x: Not Completed | Medium | |
-| 56 | [Mayan Calculation](https://www.codingame.com/training/medium/mayan-calculation) | :x: Not Completed | Medium | |
-| 57 | [Maze](https://www.codingame.com/training/medium/maze) | :x: Not Completed | Medium | |
-| 58 | [Micro Assembly](https://www.codingame.com/training/medium/micro-assembly) | :x: Not Completed | Medium | |
-| 59 | [Minimal number of swaps](https://www.codingame.com/training/medium/minimal-number-of-swaps) | :x: Not Completed | Medium | |
-| 60 | [Minimax excercise](https://www.codingame.com/training/medium/minimax-exercise) | :x: Not Completed | Medium | |
-| 61 | [Monthly System](https://www.codingame.com/training/medium/monthly-system) | :x: Not Completed | Medium | |
-| 62 | [Near-Palindromes](https://www.codingame.com/training/medium/near-palindromes) | :x: Not Completed | Medium | |
-| 63 | [Network Cabling](https://www.codingame.com/training/medium/network-cabling) | :x: Not Completed | Medium |  |
-| 64 | [Next car license plate ?](https://www.codingame.com/training/medium/next-car-license-plate) | :x: Not Completed | Medium |  |
-| 65 | [Number of letters in a number - Binary](https://www.codingame.com/training/medium/number-of-letters-in-a-number---binary) | :x: Not Completed | Medium |  |
-| 66 | [Number of paths between 2 points](https://www.codingame.com/training/medium/number-of-paths-between-2-points) | :x: Not Completed | Medium |  |
-| 67 | [Numeral system](https://www.codingame.com/training/medium/numeral-system) | :x: Not Completed | Medium |  |
-| 68 | [Othello](https://www.codingame.com/training/medium/othello) | :x: Not Completed | Medium |  |
-| 69 | [Paper labyrinth](https://www.codingame.com/training/medium/paper-labyrinth) | :x: Not Completed | Medium |  |
-| 70 | [Plight Of The Fellowship Of The Ring](https://www.codingame.com/training/medium/plight-of-the-fellowship-of-the-ring) | :x: Not Completed | Medium |  |
-| 71 | [Polydivisible number](https://www.codingame.com/training/medium/polydivisible-number) | :x: Not Completed | Medium |  |
-| 72 | [Queneau Numbers](https://www.codingame.com/training/medium/queneau-numbers) | :x: Not Completed | Medium |  |
-| 73 | [Reversed Look-and-say](https://www.codingame.com/training/medium/reversed-look-and-say) | :x: Not Completed | Medium |  |
-| 74 | [Rubik](https://www.codingame.com/training/medium/rubik%C2%AE) | :x: Not Completed | Medium |  |
-| 75 | [Sandpile addition](https://www.codingame.com/training/medium/sandpile-addition) | :x: Not Completed | Medium |  |
-| 76 | [Scrabble](https://www.codingame.com/training/medium/scrabble) | :x: Not Completed | Medium | 
-| 77 | [Shadows of the Knight - Episode 1](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1) | :heavy_check_mark: Completed | Medium | [C](https://github.com/DrMad92/codingame/blob/master/puzzles/medium/shadows_of_the_night_e1/solution.c) |
-| 78 | [Short accounts make long friends](https://www.codingame.com/training/medium/short-accounts-make-long-friends) | :x: Not Completed | Medium |  |
-| 79 | [Simple fraction to mixed number](https://www.codingame.com/training/medium/simple-fraction-to-mixed-number) | :x: Not Completed | Medium |  |
-| 80 | [Simplified Monopoly Turns Prediction](https://www.codingame.com/training/medium/simplified-monopoly-turns-prediction) | :x: Not Completed | Medium |  |
-| 81 | [Skynet Revolution - Episode 1](https://www.codingame.com/training/medium/skynet-revolution-episode-1) | :x: Not Completed | Medium | |
-| 82 | [Snake encoding](https://www.codingame.com/training/medium/snake-encoding) | :x: Not Completed | Medium |  |
-| 83 | [Stock Exchange Losses](https://www.codingame.com/training/medium/stock-exchange-losses) | :heavy_check_mark: Completed | Medium | [C](https://github.com/DrMad92/codingame/blob/master/puzzles/medium/stock_exchange_losses/solution.c) |
-| 84 | [Straddling Checkerboard Cryptography](https://www.codingame.com/training/medium/straddling-checkerboard-cryptography) | :x: Not Completed | Medium |  |
-| 85 | [Sum of divisors](https://www.codingame.com/training/medium/sum-of-divisors) | :x: Not Completed | Medium |  |
-| 86 | [Target Firing](https://www.codingame.com/training/medium/target-firing) | :heavy_check_mark: Completed | Medium |  |
-| 86 | [Teads Sponsored Contest](https://www.codingame.com/training/medium/teads-sponsored-contest) | :x: Not Completed | Medium |  |
-| 87 | [Telephone Numbers](https://www.codingame.com/training/medium/telephone-numbers) | :x: Not Completed | Medium |  |
-| 88 | [Text alignment](https://www.codingame.com/training/medium/text-alignment) | :x: Not Completed | Medium |  |
-| 89 | [The experience for creating puzzles](https://www.codingame.com/training/medium/the-experience-for-creating-puzzles) | :x: Not Completed | Medium |  |
-| 90 | [The Fastest](https://www.codingame.com/training/medium/the-fastest) | :x: Not Completed | Medium |  |
-| 91 | [The Gift](https://www.codingame.com/training/medium/the-gift) | :x: Not Completed | Medium |  |
-| 92 | [The Grand Festival - I](https://www.codingame.com/training/medium/the-grand-festival---i) | :x: Not Completed | Medium |  |
-| 93 | [The Grand Festival - II](https://www.codingame.com/training/medium/the-grand-festival---ii) | :x: Not Completed | Medium |  |
-| 94 | [The Last Crusade - Episode 1](https://www.codingame.com/training/medium/the-last-crusade-episode-1) | :x: Not Completed | Medium |  |
-| 95 | [The Optimal Urinal Problem](https://www.codingame.com/training/medium/the-optimal-urinal-problem) | :x: Not Completed | Medium |  |
-| 96 | [The Ultimate Test](https://www.codingame.com/training/medium/the-ultimate-test) | :x: Not Completed | Medium |  |
-| 97 | [The Urinal Problem](https://www.codingame.com/training/medium/the-urinal-problem) | :x: Not Completed | Medium |  |
-| 98 | [There is no Spoon - Episode 1](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1) | :x: Not Completed | Medium |  |
-| 99 | [These Romans are crazy!](https://www.codingame.com/training/medium/these-romans-are-crazy!) | :x: Not Completed | Medium |  |
-| 100 | [Trits (Balanced Ternary Computing)](https://www.codingame.com/training/medium/trits-balanced-ternary-computing) | :x: Not Completed | Medium |  |
-| 101 | [Vote counting](https://www.codingame.com/training/medium/vote-counting) | :x: Not Completed | Medium |       |
-| 102 | [War](https://www.codingame.com/training/medium/winamax-battle)  | :x: Not Completed | Medium |  |
+| 31 | [Detective Pikaptcha Ep3](https://www.codingame.com/training/medium/detective-pikaptcha-ep3)  | :x: Not Completed | Medium |  |
+| 32 | [Dice probability calculator](https://www.codingame.com/training/medium/dice-probability-calculator) | :x: Not Completed | Medium | |
+| 33 | [Digit sum successor](https://www.codingame.com/training/medium/digit-sum-successor) | :x: Not Completed | Medium | |
+| 34 | [Divine!](https://www.codingame.com/training/medium/divine!) | :x: Not Completed | Medium | |
+| 35 | [Dominoes Path](https://www.codingame.com/training/medium/dominoes-path) | :x: Not Completed | Medium | |
+| 36 | [Don't Panic - Episode 1](https://www.codingame.com/training/medium/don't-panic-episode-1) | :heavy_check_mark: Completed | Medium | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C%2B%2B/DontPanic_EP1.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C/DontPanic_EP1.c), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/PYTHON/DontPanic_EP1.py) |
+| 37 | [Dwars standing on the shoulders of giants](https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants) | :x: Not Completed | Medium | |
+| 38 | [Elementary cellular automaton](https://www.codingame.com/training/medium/elementary-cellular-automaton) | :x: Not Completed | Medium | |
+| 39 | [Enigma - 3 rotors without plugboard](https://www.codingame.com/training/medium/enigma---3-rotors-without-plugboard) | :x: Not Completed | Medium | |
+| 40 | [Find the replacement](https://www.codingame.com/training/medium/find-the-replacement) | :x: Not Completed | Medium | |
+| 41 | [Flood fill Example](https://www.codingame.com/training/medium/flood-fill-example) | :x: Not Completed | Medium | |
+| 42 | [Folding Paper](https://www.codingame.com/training/medium/folding-paper) | :x: Not Completed | Medium | |
+| 43 | [Game of life](https://www.codingame.com/training/medium/game-of-life) | :x: Not Completed | Medium | |
+| 44 | [Gravity](https://www.codingame.com/training/medium/gravity) | :x: Not Completed | Medium | |
+| 45 | [Gravity Centrifuge](https://www.codingame.com/training/medium/gravity-centrifuge) | :x: Not Completed | Medium | |
+| 46 | [Gravity Centrifuge Tuning](https://www.codingame.com/training/medium/gravity-centrifuge-tuning) | :x: Not Completed | Medium | |
+| 47 | [Hidden word](https://www.codingame.com/training/medium/hidden-word) | :x: Not Completed | Medium | |
+| 48 | [Horse-hyperracing Hyperduals](https://www.codingame.com/training/medium/horse-hyperracing-hyperduals) | :x: Not Completed | Medium | |
+| 49 | [HTML table cell split](https://www.codingame.com/training/medium/html-table-cell-split) | :x: Not Completed | Medium | |
+| 50 | [Kaprekar's routine](https://www.codingame.com/training/medium/kaprekars-routine) | :x: Not Completed | Medium | |
+| 51 | [Langton's ant](https://www.codingame.com/training/medium/langton's-ant) | :x: Not Completed | Medium | |
+| 52 | [Locked in gear](https://www.codingame.com/training/medium/locked-in-gear) | :x: Not Completed | Medium | |
+| 53 | [Magic Square](https://www.codingame.com/training/medium/magic-square) | :x: Not Completed | Medium | |
+| 54 | [Magic stones](https://www.codingame.com/training/medium/magic-stones) | :x: Not Completed | Medium | |
+| 55 | [Mars Lander - Episode 2](https://www.codingame.com/training/medium/mars-lander-episode-2) | :heavy_check_mark: Completed | Medium | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C%2B%2B/Marslander_EP2.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C/Marslander_EP2.c) |
+| 56 | [Maximum sub-sequence](https://www.codingame.com/training/medium/maximum-sub-sequence) | :x: Not Completed | Medium | |
+| 57 | [Mayan Calculation](https://www.codingame.com/training/medium/mayan-calculation) | :x: Not Completed | Medium | |
+| 58 | [Maze](https://www.codingame.com/training/medium/maze) | :x: Not Completed | Medium | |
+| 59 | [Micro Assembly](https://www.codingame.com/training/medium/micro-assembly) | :x: Not Completed | Medium | |
+| 60 | [Minimal number of swaps](https://www.codingame.com/training/medium/minimal-number-of-swaps) | :x: Not Completed | Medium | |
+| 61 | [Minimax excercise](https://www.codingame.com/training/medium/minimax-exercise) | :x: Not Completed | Medium | |
+| 62 | [Monthly System](https://www.codingame.com/training/medium/monthly-system) | :x: Not Completed | Medium | |
+| 63 | [Near-Palindromes](https://www.codingame.com/training/medium/near-palindromes) | :x: Not Completed | Medium | |
+| 64 | [Network Cabling](https://www.codingame.com/training/medium/network-cabling) | :heavy_check_mark: Completed | Medium | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C%2B%2B/NetworkCabling.cpp) |
+| 65 | [Next car license plate ?](https://www.codingame.com/training/medium/next-car-license-plate) | :x: Not Completed | Medium |  |
+| 66 | [Number of letters in a number - Binary](https://www.codingame.com/training/medium/number-of-letters-in-a-number---binary) | :x: Not Completed | Medium |  |
+| 67 | [Number of paths between 2 points](https://www.codingame.com/training/medium/number-of-paths-between-2-points) | :x: Not Completed | Medium |  |
+| 68 | [Numeral system](https://www.codingame.com/training/medium/numeral-system) | :x: Not Completed | Medium |  |
+| 69 | [Othello](https://www.codingame.com/training/medium/othello) | :x: Not Completed | Medium |  |
+| 70 | [Paper labyrinth](https://www.codingame.com/training/medium/paper-labyrinth) | :x: Not Completed | Medium |  |
+| 71 | [Plight Of The Fellowship Of The Ring](https://www.codingame.com/training/medium/plight-of-the-fellowship-of-the-ring) | :x: Not Completed | Medium |  |
+| 72 | [Polydivisible number](https://www.codingame.com/training/medium/polydivisible-number) | :x: Not Completed | Medium |  |
+| 73 | [Queneau Numbers](https://www.codingame.com/training/medium/queneau-numbers) | :x: Not Completed | Medium |  |
+| 74 | [Reversed Look-and-say](https://www.codingame.com/training/medium/reversed-look-and-say) | :x: Not Completed | Medium |  |
+| 75 | [Rubik](https://www.codingame.com/training/medium/rubik%C2%AE) | :x: Not Completed | Medium |  |
+| 76 | [Sandpile addition](https://www.codingame.com/training/medium/sandpile-addition) | :x: Not Completed | Medium |  |
+| 77 | [Scrabble](https://www.codingame.com/training/medium/scrabble) | :x: Not Completed | Medium | 
+| 78 | [Shadows of the Knight - Episode 1](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1) | :heavy_check_mark: Completed | Medium | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C%2B%2B/ShadowsOfTheKnight_EP1.cpp) |
+| 79 | [Short accounts make long friends](https://www.codingame.com/training/medium/short-accounts-make-long-friends) | :x: Not Completed | Medium |  |
+| 80 | [Simple fraction to mixed number](https://www.codingame.com/training/medium/simple-fraction-to-mixed-number) | :x: Not Completed | Medium |  |
+| 81 | [Simplified Monopoly Turns Prediction](https://www.codingame.com/training/medium/simplified-monopoly-turns-prediction) | :x: Not Completed | Medium |  |
+| 82 | [Skynet Revolution - Episode 1](https://www.codingame.com/training/medium/skynet-revolution-episode-1) | :x: Not Completed | Medium | |
+| 83 | [Snake encoding](https://www.codingame.com/training/medium/snake-encoding) | :x: Not Completed | Medium |  |
+| 84 | [Stock Exchange Losses](https://www.codingame.com/training/medium/stock-exchange-losses) | :heavy_check_mark: Completed | Medium | [C](https://github.com/DrMad92/codingame/blob/master/puzzles/medium/stock_exchange_losses/solution.c) |
+| 85 | [Straddling Checkerboard Cryptography](https://www.codingame.com/training/medium/straddling-checkerboard-cryptography) | :x: Not Completed | Medium |  |
+| 86 | [Sum of divisors](https://www.codingame.com/training/medium/sum-of-divisors) | :heavy_check_mark: Completed | Medium | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C%2B%2B/SumOfDivisors.cpp) |
+| 87 | [Target Firing](https://www.codingame.com/training/medium/target-firing) | :heavy_check_mark: Completed | Medium | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/C%2B%2B/TargetFiring.cpp)  |
+| 88 | [Teads Sponsored Contest](https://www.codingame.com/training/medium/teads-sponsored-contest) | :x: Not Completed | Medium |  |
+| 89 | [Telephone Numbers](https://www.codingame.com/training/medium/telephone-numbers) | :x: Not Completed | Medium |  |
+| 90 | [Text alignment](https://www.codingame.com/training/medium/text-alignment) | :x: Not Completed | Medium |  |
+| 91 | [The experience for creating puzzles](https://www.codingame.com/training/medium/the-experience-for-creating-puzzles) | :x: Not Completed | Medium |  |
+| 92 | [The Fastest](https://www.codingame.com/training/medium/the-fastest) | :x: Not Completed | Medium |  |
+| 93 | [The Gift](https://www.codingame.com/training/medium/the-gift) | :x: Not Completed | Medium |  |
+| 94 | [The Grand Festival - I](https://www.codingame.com/training/medium/the-grand-festival---i) | :x: Not Completed | Medium |  |
+| 95 | [The Grand Festival - II](https://www.codingame.com/training/medium/the-grand-festival---ii) | :x: Not Completed | Medium |  |
+| 96 | [The Last Crusade - Episode 1](https://www.codingame.com/training/medium/the-last-crusade-episode-1) | :x: Not Completed | Medium |  |
+| 97 | [The Optimal Urinal Problem](https://www.codingame.com/training/medium/the-optimal-urinal-problem) | :x: Not Completed | Medium |  |
+| 98 | [The Ultimate Test](https://www.codingame.com/training/medium/the-ultimate-test) | :x: Not Completed | Medium |  |
+| 99 | [The Urinal Problem](https://www.codingame.com/training/medium/the-urinal-problem) | :x: Not Completed | Medium |  |
+| 100 | [There is no Spoon - Episode 1](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1) | :x: Not Completed | Medium |  |
+| 101 | [These Romans are crazy!](https://www.codingame.com/training/medium/these-romans-are-crazy!) | :x: Not Completed | Medium |  |
+| 102 | [Trits (Balanced Ternary Computing)](https://www.codingame.com/training/medium/trits-balanced-ternary-computing) | :x: Not Completed | Medium |  |
+| 103 | [Vote counting](https://www.codingame.com/training/medium/vote-counting) | :x: Not Completed | Medium |       |
+| 104 | [War](https://www.codingame.com/training/medium/winamax-battle)  | :x: Not Completed | Medium |  |
 
 
 ### Hard (0/106 completed)
