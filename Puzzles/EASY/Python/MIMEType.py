@@ -1,24 +1,16 @@
-import sys
-import math
-
-# Auto-generated code below aims at helping you parse
-# the standard input according to the problem statement.
-
 n = int(input())  # Number of elements which make up the association table.
 q = int(input())  # Number Q of file names to be analyzed.
-dic = {}
-fname = []
+MIME = {}
 for i in range(n):
     # ext: file extension
     # mt: MIME type.
-    ext, mt=(input().split())
-    dic[ext.lower()]=mt
+    ext, mt = input().split()
+    MIME[ext.lower()] = mt
 for i in range(q):
-    fname, exten=input().split('.')
-    try:
-        print (dic[exten.lower()]) 
-    except KeyError: 
-        print ("UNKNOWN")
-
-
-
+    fname = input()  # One file name per line.
+    dotindex = fname.rfind(".") + 1
+    if dotindex == 0:
+        typename = ""
+    else:
+        typename = fname[dotindex:]
+    print(MIME.get(typename.lower(), "UNKNOWN"))
