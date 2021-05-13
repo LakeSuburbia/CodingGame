@@ -7,7 +7,7 @@ In this reposority you will find my working solutions for puzzles on https://www
 
 ## Puzzles
 
-### Easy (23/51 completed)
+### Easy (24/52 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -19,49 +19,50 @@ In this reposority you will find my working solutions for puzzles on https://www
 | 6 | [Brackets, extreme edition.](https://www.codingame.com/training/easy/brackets-extreme-edition) | :x: Not Completed | Easy |  |
 | 7 | [Brick in the Wall](https://www.codingame.com/training/easy/brick-in-the-wall) | :x: Not Completed | Easy | |
 | 8 | [Bulk Email Generator](https://www.codingame.com/training/easy/bulk-email-generator) | :x: Not Completed | Easy | |
-| 9 | [Chuck Norris](https://www.codingame.com/training/easy/chuck-norris) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/ChuckNorris.cpp),  |
-| 10 | [Darts](https://www.codingame.com/training/easy/darts) | :x: Not Completed | Easy | |
-| 11 | [Dead men's shot](https://www.codingame.com/training/easy/dead-mens-shot) | :x: Not Completed | Easy | |
-| 12 | [Defibrillators](https://www.codingame.com/training/easy/defibrillators) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/Defibrillators.py) |
-| 13 | [Detective Pikaptcha Ep1](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)  | :x: Not Completed | Easy |  |
-| 14 | [Detective Pikaptcha Ep2](https://www.codingame.com/training/easy/detective-pikaptcha-ep2)  | :x: Not Completed | Easy |  |
-| 15 | [Disordered First Contact](https://www.codingame.com/training/easy/disordered-first-contact) | :x: Not Completed | Easy | |
-| 16 | [Encryption/Decryption of Enigma Machine](https://www.codingame.com/training/easy/encryptiondecryption-of-enigma-machine) | :x: Not Completed | Easy | |
-| 17 | [Expand the polynomial](https://www.codingame.com/training/easy/expand-the-polynomial) | :x: Not Completed | Easy | |
-| 18 | [Ghost Legs](https://www.codingame.com/training/easy/ghost-legs) | :x: Not Completed | Easy | |
-| 19 | [Gravity Tumbler](https://www.codingame.com/training/easy/gravity-tumbler) | :x: Not Completed | Easy | |
-| 20 | [Guessing n Cheating](https://www.codingame.com/training/easy/guessing-n-cheating) | :x: Not Completed | Easy | |
-| 21 | [Horse-racing Duals](https://www.codingame.com/training/easy/horse-racing-duals) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/HorseRacingDuels.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/HorseRacingDuels.c), [Java](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Java/HorseRacingDuels.java), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/HorseRacingDuels.py)  |
-| 22 | [Horse-racing Hyperduals](https://www.codingame.com/training/easy/horse-racing-hyperduals) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/HorseRacingHyperduels.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/HorseRacingHyperduels.c) |
-| 23 | [How time flies](https://www.codingame.com/training/easy/how-time-flies) | ✔️ Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/HowTimeFlies.py) |
-| 24 | [ISBN Check digit](https://www.codingame.com/training/easy/isbn-check-digit) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/ISBNCheckDigit.py) |
-| 25 | [Jack Silver: The Casino](https://www.codingame.com/training/easy/jack-silver-the-casino) | :x: Not Completed | Easy | |
-| 26 | [Lumen](https://www.codingame.com/training/easy/lumen) | ✔️ Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/Lumen.py) |
-| 27 | [Mars Lander - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/Marslander_EP1.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/Marslander_EP1.c), [Java](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Java/Marslander_EP1.java), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/Marslander_EP1.py) |
-| 28 | [May the Triforce be with you!](https://www.codingame.com/training/easy/may-the-triforce-be-with-you) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/MayTheTriforceBeWithYou.py) |
-| 29 | [MIME Type](https://www.codingame.com/training/easy/mime-type) | :x: Not Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/MIMEType.py) |
-| 30 | [Morellet's random lines](https://www.codingame.com/training/easy/morellets-random-lines) | :x: Not Completed | Easy | |
-| 31 | [Mountain Map](https://www.codingame.com/training/easy/mountain-map) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/tree/main/Puzzles/EASY/Python)
-| 32 | [Nature of quadrilaterals](https://www.codingame.com/training/easy/nature-of-quadrilaterals) | :x: Not Completed | Easy | |
-| 33 | [Onboarding](https://www.codingame.com/training/easy/onboarding) | :heavy_check_mark: Completed | Easy | All |
-| 34 | [orDer oF succeSsion](https://www.codingame.com/training/easy/order-of-succession) | :x: Not Completed | Easy | |
-| 35 | [Organic Compounds](https://www.codingame.com/training/easy/organic-compounds) | :x: Not Completed | Easy |  |
-| 36 | [Pirate's treasure](https://www.codingame.com/training/easy/pirates-treasure) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/PiratesTreasure.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/PiratesTreasure.c) |
-| 37 | [Power of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/PowerOfThor_EP1.Cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/PowerOfThor_EP1.C), [Java](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Java/PowerOfThor_EP1.java), [Ruby](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Ruby/PowerOfThor_EP1.rb) |
-| 38 | [Rectangular block spinner](https://www.codingame.com/training/easy/rectangular-block-spinner) | :x: Not Completed | Easy |  |
-| 39 | [Reverse FizzBuzz](https://www.codingame.com/training/easy/reverse-fizzbuzz) | ✔️ Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/ReverseFizzBuzz.py) |
-| 40 | [Rooks Movements](https://www.codingame.com/training/easy/rooks-movements) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/RooksMovement.py) |
-| 41 | [Rugby score](https://www.codingame.com/training/easy/rugby-score) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/RugbyScore.cpp) |
-| 42 | [Self-driving car testing](https://www.codingame.com/training/easy/self-driving-car-testing) | :x: Not Completed | Easy |  |
-| 43 | [Simple Awalé](https://www.codingame.com/training/easy/simple-awale) | :x: Not Completed | Easy |  |
-| 44 | [Temperatures](https://www.codingame.com/training/easy/temperatures) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/Temperatures.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/Temperatures.c), [Java](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Java/Temperatures.java), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/Temperatures.py) |
-| 45 | [Text formatting](https://www.codingame.com/training/easy/text-formatting) | :x: Not Completed | Easy | |
-| 46 | [The Descent](https://www.codingame.com/training/easy/the-descent) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/TheDescent.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/TheDescent.c) , [Java](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Java/TheDescent.java) , [Javascript](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Javascript/TheDescent.js) , [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/TheDescent.py) , [Typescript](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Typescript/TheDescent.ts)  |
-| 47 | [The River I.](https://www.codingame.com/training/easy/the-river-i-) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/TheRiverI.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/TheRiverI.C), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/TheRiverI.py) |
-| 48 | [The River II.](https://www.codingame.com/training/easy/the-river-ii-) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/TheRiverII.cpp), [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/TheRiverII.C)  |
-| 49 | [The Travelling Salesman Problem](https://www.codingame.com/training/easy/the-travelling-salesman-problem) | :x: Not Completed | Easy |  |
-| 50 | [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | ✔️ Completed | Easy |  [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/WhatsSoComplexAboutTheMandelbrotSet.cpp), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/WhatsSoComplexAboutTheMandelbrotSet.py)     |
-| 51 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016)  | :x: Not Completed | Easy |  |
+| 9 | [Chuck Norris](https://www.codingame.com/training/easy/chuck-norris) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/ChuckNorris.cpp)  |
+| 10 | [Credit Card Verifier (Luhn's Algorithm)](https://www.codingame.com/training/easy/credit-card-verifier-luhns-algorithm) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/CreditCardVerifier.py)  |
+| 11 | [Darts](https://www.codingame.com/training/easy/darts) | :x: Not Completed | Easy | |
+| 12 | [Dead men's shot](https://www.codingame.com/training/easy/dead-mens-shot) | :x: Not Completed | Easy | |
+| 13 | [Defibrillators](https://www.codingame.com/training/easy/defibrillators) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/Defibrillators.py) |
+| 14 | [Detective Pikaptcha Ep1](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)  | :x: Not Completed | Easy |  |
+| 15 | [Detective Pikaptcha Ep2](https://www.codingame.com/training/easy/detective-pikaptcha-ep2)  | :x: Not Completed | Easy |  |
+| 16 | [Disordered First Contact](https://www.codingame.com/training/easy/disordered-first-contact) | :x: Not Completed | Easy | |
+| 17 | [Encryption/Decryption of Enigma Machine](https://www.codingame.com/training/easy/encryptiondecryption-of-enigma-machine) | :x: Not Completed | Easy | |
+| 18 | [Expand the polynomial](https://www.codingame.com/training/easy/expand-the-polynomial) | :x: Not Completed | Easy | |
+| 19 | [Ghost Legs](https://www.codingame.com/training/easy/ghost-legs) | :x: Not Completed | Easy | |
+| 20 | [Gravity Tumbler](https://www.codingame.com/training/easy/gravity-tumbler) | :x: Not Completed | Easy | |
+| 21 | [Guessing n Cheating](https://www.codingame.com/training/easy/guessing-n-cheating) | :x: Not Completed | Easy | |
+| 22 | [Horse-racing Duals](https://www.codingame.com/training/easy/horse-racing-duals) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/HorseRacingDuels.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/HorseRacingDuels.c), [Java](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Java/HorseRacingDuels.java), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/HorseRacingDuels.py)  |
+| 23 | [Horse-racing Hyperduals](https://www.codingame.com/training/easy/horse-racing-hyperduals) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/HorseRacingHyperduels.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/HorseRacingHyperduels.c) |
+| 24 | [How time flies](https://www.codingame.com/training/easy/how-time-flies) | ✔️ Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/HowTimeFlies.py) |
+| 25 | [ISBN Check digit](https://www.codingame.com/training/easy/isbn-check-digit) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/ISBNCheckDigit.py) |
+| 26 | [Jack Silver: The Casino](https://www.codingame.com/training/easy/jack-silver-the-casino) | :x: Not Completed | Easy | |
+| 27 | [Lumen](https://www.codingame.com/training/easy/lumen) | ✔️ Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/Lumen.py) |
+| 28 | [Mars Lander - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/Marslander_EP1.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/Marslander_EP1.c), [Java](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Java/Marslander_EP1.java), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/Marslander_EP1.py) |
+| 29 | [May the Triforce be with you!](https://www.codingame.com/training/easy/may-the-triforce-be-with-you) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/MayTheTriforceBeWithYou.py) |
+| 30 | [MIME Type](https://www.codingame.com/training/easy/mime-type) | :x: Not Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/MIMEType.py) |
+| 31 | [Morellet's random lines](https://www.codingame.com/training/easy/morellets-random-lines) | :x: Not Completed | Easy | |
+| 32 | [Mountain Map](https://www.codingame.com/training/easy/mountain-map) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/tree/main/Puzzles/EASY/Python)
+| 33 | [Nature of quadrilaterals](https://www.codingame.com/training/easy/nature-of-quadrilaterals) | :x: Not Completed | Easy | |
+| 34 | [Onboarding](https://www.codingame.com/training/easy/onboarding) | :heavy_check_mark: Completed | Easy | All |
+| 35 | [orDer oF succeSsion](https://www.codingame.com/training/easy/order-of-succession) | :x: Not Completed | Easy | |
+| 36 | [Organic Compounds](https://www.codingame.com/training/easy/organic-compounds) | :x: Not Completed | Easy |  |
+| 37 | [Pirate's treasure](https://www.codingame.com/training/easy/pirates-treasure) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/PiratesTreasure.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/PiratesTreasure.c) |
+| 38 | [Power of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/PowerOfThor_EP1.Cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/PowerOfThor_EP1.C), [Java](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Java/PowerOfThor_EP1.java), [Ruby](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Ruby/PowerOfThor_EP1.rb) |
+| 39 | [Rectangular block spinner](https://www.codingame.com/training/easy/rectangular-block-spinner) | :x: Not Completed | Easy |  |
+| 40 | [Reverse FizzBuzz](https://www.codingame.com/training/easy/reverse-fizzbuzz) | ✔️ Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/ReverseFizzBuzz.py) |
+| 41 | [Rooks Movements](https://www.codingame.com/training/easy/rooks-movements) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/RooksMovement.py) |
+| 42 | [Rugby score](https://www.codingame.com/training/easy/rugby-score) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/RugbyScore.cpp) |
+| 43 | [Self-driving car testing](https://www.codingame.com/training/easy/self-driving-car-testing) | :x: Not Completed | Easy |  |
+| 44 | [Simple Awalé](https://www.codingame.com/training/easy/simple-awale) | :x: Not Completed | Easy |  |
+| 45 | [Temperatures](https://www.codingame.com/training/easy/temperatures) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/Temperatures.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/Temperatures.c), [Java](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Java/Temperatures.java), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/Temperatures.py) |
+| 46 | [Text formatting](https://www.codingame.com/training/easy/text-formatting) | :x: Not Completed | Easy | |
+| 47 | [The Descent](https://www.codingame.com/training/easy/the-descent) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/TheDescent.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/TheDescent.c) , [Java](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Java/TheDescent.java) , [Javascript](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Javascript/TheDescent.js) , [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/TheDescent.py) , [Typescript](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Typescript/TheDescent.ts)  |
+| 48 | [The River I.](https://www.codingame.com/training/easy/the-river-i-) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/TheRiverI.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/TheRiverI.C), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/TheRiverI.py) |
+| 49 | [The River II.](https://www.codingame.com/training/easy/the-river-ii-) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/TheRiverII.cpp), [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/TheRiverII.C)  |
+| 50 | [The Travelling Salesman Problem](https://www.codingame.com/training/easy/the-travelling-salesman-problem) | :x: Not Completed | Easy |  |
+| 51 | [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | ✔️ Completed | Easy |  [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/WhatsSoComplexAboutTheMandelbrotSet.cpp), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/WhatsSoComplexAboutTheMandelbrotSet.py)     |
+| 52 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016)  | :x: Not Completed | Easy |  |
 
 ### Medium (7/103 completed)
 | No. | Puzzle Name | State| Difficulty | Languages |
