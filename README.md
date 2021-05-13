@@ -17,7 +17,7 @@ In this reposority you will find my working solutions for puzzles on https://www
 | 4 | [Balanced ternary computer: encode](https://www.codingame.com/training/easy/balanced-ternary-computer-encode) | :x: Not Completed | Easy | |
 | 5 | [Bank Robbers](https://www.codingame.com/training/easy/bank-robbers) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/BankRobbers.cpp) |
 | 6 | [Brackets, extreme edition.](https://www.codingame.com/training/easy/brackets-extreme-edition) | :x: Not Completed | Easy |  |
-| 7 | [Brick in the Wall](https://www.codingame.com/training/easy/brick-in-the-wall) | :x: Not Completed | Easy | |
+| 7 | [Brick in the Wall](https://www.codingame.com/training/easy/brick-in-the-wall) | ✔️ Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/BrickInTheWall.py) |
 | 8 | [Bulk Email Generator](https://www.codingame.com/training/easy/bulk-email-generator) | :x: Not Completed | Easy | |
 | 9 | [Chuck Norris](https://www.codingame.com/training/easy/chuck-norris) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/ChuckNorris.cpp)  |
 | 10 | [Credit Card Verifier (Luhn's Algorithm)](https://www.codingame.com/training/easy/credit-card-verifier-luhns-algorithm) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/CreditCardVerifier.py)  |
