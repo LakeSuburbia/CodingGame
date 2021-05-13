@@ -7,7 +7,7 @@ In this reposority you will find my working solutions for puzzles on https://www
 
 ## Puzzles
 
-### Easy (22/51 completed)
+### Easy (23/51 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -33,7 +33,7 @@ In this reposority you will find my working solutions for puzzles on https://www
 | 20 | [Guessing n Cheating](https://www.codingame.com/training/easy/guessing-n-cheating) | :x: Not Completed | Easy | |
 | 21 | [Horse-racing Duals](https://www.codingame.com/training/easy/horse-racing-duals) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/HorseRacingDuels.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/HorseRacingDuels.c), [Java](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Java/HorseRacingDuels.java), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/HorseRacingDuels.py)  |
 | 22 | [Horse-racing Hyperduals](https://www.codingame.com/training/easy/horse-racing-hyperduals) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/HorseRacingHyperduels.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/HorseRacingHyperduels.c) |
-| 23 | [How time flies](https://www.codingame.com/training/easy/how-time-flies) | :x: Not Completed | Easy | |
+| 23 | [How time flies](https://www.codingame.com/training/easy/how-time-flies) | ✔️ Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/HowTimeFlies.py) |
 | 24 | [ISBN Check digit](https://www.codingame.com/training/easy/isbn-check-digit) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/ISBNCheckDigit.py) |
 | 25 | [Jack Silver: The Casino](https://www.codingame.com/training/easy/jack-silver-the-casino) | :x: Not Completed | Easy | |
 | 26 | [Lumen](https://www.codingame.com/training/easy/lumen) | ✔️ Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/Lumen.py) |
