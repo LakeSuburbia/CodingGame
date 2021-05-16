@@ -7,7 +7,7 @@ In this reposority you will find my working solutions for puzzles on https://www
 
 ## Puzzles
 
-### Easy (32/59 completed)
+### Easy (33/60 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
