@@ -7,7 +7,7 @@ In this reposority you will find my working solutions for puzzles on https://www
 
 ## Puzzles
 
-### Easy (29/56 completed)
+### Easy (30/57 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -58,15 +58,16 @@ In this reposority you will find my working solutions for puzzles on https://www
 | 45 | [Rugby score](https://www.codingame.com/training/easy/rugby-score) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/RugbyScore.cpp) |
 | 46 | [Self-driving car testing](https://www.codingame.com/training/easy/self-driving-car-testing) | :x: Not Completed | Easy |  |
 | 47 | [Simple Awalé](https://www.codingame.com/training/easy/simple-awale) | :x: Not Completed | Easy |  |
-| 48 | [Temperatures](https://www.codingame.com/training/easy/temperatures) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/Temperatures.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/Temperatures.c), [Java](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Java/Temperatures.java), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/Temperatures.py) |
-| 49 | [Text formatting](https://www.codingame.com/training/easy/text-formatting) | :x: Not Completed | Easy | |
-| 50 | [The Descent](https://www.codingame.com/training/easy/the-descent) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/TheDescent.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/TheDescent.c) , [Java](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Java/TheDescent.java) , [Javascript](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Javascript/TheDescent.js) , [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/TheDescent.py) , [Typescript](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Typescript/TheDescent.ts)  |
-| 51 | [The River I.](https://www.codingame.com/training/easy/the-river-i-) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/TheRiverI.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/TheRiverI.C), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/TheRiverI.py) |
-| 52 | [The River II.](https://www.codingame.com/training/easy/the-river-ii-) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/TheRiverII.cpp), [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/TheRiverII.C)  |
-| 53 | [The Travelling Salesman Problem](https://www.codingame.com/training/easy/the-travelling-salesman-problem) | :x: Not Completed | Easy |  |
-| 54 | [Tree Paths](https://www.codingame.com/training/easy/tree-paths) | ✔️ Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/TreePaths.py) |
-| 55 | [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | ✔️ Completed | Easy |  [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/WhatsSoComplexAboutTheMandelbrotSet.cpp), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/WhatsSoComplexAboutTheMandelbrotSet.py)     |
-| 56 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016)  | :x: Not Completed | Easy |  |
+| 48 | [Sudoku Validator](https://www.codingame.com/training/easy/sudoku-validator) | ✔️ Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/SudokuValidator.py) |
+| 49 | [Temperatures](https://www.codingame.com/training/easy/temperatures) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/Temperatures.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/Temperatures.c), [Java](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Java/Temperatures.java), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/Temperatures.py) |
+| 50 | [Text formatting](https://www.codingame.com/training/easy/text-formatting) | :x: Not Completed | Easy | |
+| 51 | [The Descent](https://www.codingame.com/training/easy/the-descent) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/TheDescent.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/TheDescent.c) , [Java](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Java/TheDescent.java) , [Javascript](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Javascript/TheDescent.js) , [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/TheDescent.py) , [Typescript](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Typescript/TheDescent.ts)  |
+| 52 | [The River I.](https://www.codingame.com/training/easy/the-river-i-) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/TheRiverI.cpp), [C](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/TheRiverI.C), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/TheRiverI.py) |
+| 53 | [The River II.](https://www.codingame.com/training/easy/the-river-ii-) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/TheRiverII.cpp), [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/TheRiverII.C)  |
+| 54 | [The Travelling Salesman Problem](https://www.codingame.com/training/easy/the-travelling-salesman-problem) | :x: Not Completed | Easy |  |
+| 55 | [Tree Paths](https://www.codingame.com/training/easy/tree-paths) | ✔️ Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/TreePaths.py) |
+| 56 | [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | ✔️ Completed | Easy |  [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/WhatsSoComplexAboutTheMandelbrotSet.cpp), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/WhatsSoComplexAboutTheMandelbrotSet.py)     |
+| 57 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016)  | :x: Not Completed | Easy |  |
 
 ### Medium (7/103 completed)
 | No. | Puzzle Name | State| Difficulty | Languages |
