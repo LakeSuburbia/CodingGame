@@ -177,7 +177,7 @@ In this reposority you will find my working solutions for puzzles on https://www
 | 104 | [War](https://www.codingame.com/training/medium/winamax-battle)  | :x: Not Completed | Medium |  |
 
 
-### Hard (0/106 completed)
+### Hard (1/106 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -248,7 +248,7 @@ In this reposority you will find my working solutions for puzzles on https://www
 | 65 | [Remainder Fantasy](https://www.codingame.com/training/hard/remainder-fantasy) | :x: Not Completed | Hard |  |
 | 66 | [Reverse Polish Notation](https://www.codingame.com/training/hard/reverse-polish-notation) | :x: Not Completed | Hard |  |
 | 67 | [Rocket mice](https://www.codingame.com/training/hard/rocket-mice) | :x: Not Completed | Hard |  |
-| 68 | [Roller Coaster](https://www.codingame.com/training/hard/roller-coaster) | :x: Not Completed | Hard | | :x: Not Completed | Hard |  |
+| 68 | [Roller Coaster](https://www.codingame.com/training/hard/roller-coaster) | ✔️ Completed | Hard |  [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/HARD/PYTHON/RollerCoaster.py)  |
 | 70 | [Simple safecracking](https://www.codingame.com/training/hard/simple-safecracking) | :x: Not Completed | Hard |  |
 | 71 | [Simplify Selection Ranges](https://www.codingame.com/training/hard/simplify-selection-ranges) | :x: Not Completed | Hard |  |
 | 72 | [Skynet Revolution - Episode 2](https://www.codingame.com/training/hard/skynet-revolution-episode-2) | :x: Not Completed | Hard |  |
