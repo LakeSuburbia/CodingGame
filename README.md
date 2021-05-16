@@ -45,6 +45,7 @@ In this reposority you will find my working solutions for puzzles on https://www
 | 32 | [Morellet's random lines](https://www.codingame.com/training/easy/morellets-random-lines) | :x: Not Completed | Easy | |
 | 33 | [Mountain Map](https://www.codingame.com/training/easy/mountain-map) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/tree/main/Puzzles/EASY/Python)
 | 34 | [Nature of quadrilaterals](https://www.codingame.com/training/easy/nature-of-quadrilaterals) | :x: Not Completed | Easy | |
+| 34 | [Offset Arrays](https://www.codingame.com/training/easy/offset-arrays) | ✔️ Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/OffsetArrays.py) |
 | 35 | [Onboarding](https://www.codingame.com/training/easy/onboarding) | :heavy_check_mark: Completed | Easy | All |
 | 36 | [orDer oF succeSsion](https://www.codingame.com/training/easy/order-of-succession) | :x: Not Completed | Easy | |
 | 37 | [Organic Compounds](https://www.codingame.com/training/easy/organic-compounds) | :x: Not Completed | Easy |  |
