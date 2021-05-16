@@ -70,7 +70,7 @@ In this reposority you will find my working solutions for puzzles on https://www
 | 57 | [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | ✔️ Completed | Easy |  [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/WhatsSoComplexAboutTheMandelbrotSet.cpp), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/WhatsSoComplexAboutTheMandelbrotSet.py)     |
 | 58 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016)  | :x: Not Completed | Easy |  |
 
-### Medium (7/103 completed)
+### Medium (8/103 completed)
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
 | 1 | [1010(1)](https://www.codingame.com/training/medium/10101) | :x: Not Completed | Medium | |
@@ -172,7 +172,7 @@ In this reposority you will find my working solutions for puzzles on https://www
 | 97 | [The Optimal Urinal Problem](https://www.codingame.com/training/medium/the-optimal-urinal-problem) | :x: Not Completed | Medium |  |
 | 98 | [The Ultimate Test](https://www.codingame.com/training/medium/the-ultimate-test) | :x: Not Completed | Medium |  |
 | 99 | [The Urinal Problem](https://www.codingame.com/training/medium/the-urinal-problem) | :x: Not Completed | Medium |  |
-| 100 | [There is no Spoon - Episode 1](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1) | :x: Not Completed | Medium |  |
+| 100 | [There is no Spoon - Episode 1](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1) | ✔️ Completed | Medium | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/PYTHON/ThereIsNoSpoon_EP1.py) |
 | 101 | [These Romans are crazy!](https://www.codingame.com/training/medium/these-romans-are-crazy!) | :x: Not Completed | Medium |  |
 | 102 | [Trits (Balanced Ternary Computing)](https://www.codingame.com/training/medium/trits-balanced-ternary-computing) | :x: Not Completed | Medium |  |
 | 103 | [Vote counting](https://www.codingame.com/training/medium/vote-counting) | :x: Not Completed | Medium |       |
