@@ -7,7 +7,7 @@ In this reposority you will find my working solutions for puzzles on https://www
 
 ## Puzzles
 
-### Easy (33/60 completed)
+### Easy (34/61 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -21,6 +21,7 @@ In this reposority you will find my working solutions for puzzles on https://www
 | 8 | [Brick in the Wall](https://www.codingame.com/training/easy/brick-in-the-wall) | ✔️ Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/BrickInTheWall.py) |
 | 9 | [Bulk Email Generator](https://www.codingame.com/training/easy/bulk-email-generator) | :x: Not Completed | Easy | |
 | 10 | [Chuck Norris](https://www.codingame.com/training/easy/chuck-norris) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/ChuckNorris.cpp)  |
+| 11 | [Container Terminal](https://www.codingame.com/training/easy/container-terminal/discuss) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/ContainerTerminal.py)  |
 | 11 | [Credit Card Verifier (Luhn's Algorithm)](https://www.codingame.com/training/easy/credit-card-verifier-luhns-algorithm) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/CreditCardVerifier.py)  |
 | 12 | [Darts](https://www.codingame.com/training/easy/darts) | :x: Not Completed | Easy | |
 | 13 | [Dead men's shot](https://www.codingame.com/training/easy/dead-mens-shot) | :x: Not Completed | Easy | |
