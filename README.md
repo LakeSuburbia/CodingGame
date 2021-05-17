@@ -7,7 +7,7 @@ In this reposority you will find my working solutions for puzzles on https://www
 
 ## Puzzles
 
-### Easy (32/59 completed)
+### Easy (33/60 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -68,6 +68,7 @@ In this reposority you will find my working solutions for puzzles on https://www
 | 55 | [The River II.](https://www.codingame.com/training/easy/the-river-ii-) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/TheRiverII.cpp), [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C/TheRiverII.C)  |
 | 56 | [The Travelling Salesman Problem](https://www.codingame.com/training/easy/the-travelling-salesman-problem) | :x: Not Completed | Easy |  |
 | 57 | [Tree Paths](https://www.codingame.com/training/easy/tree-paths) | ✔️ Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/TreePaths.py) |
+| 57 | [Unique Prefixes](https://www.codingame.com/training/easy/unique-prefixes) | ✔️ Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/UniquePrefixes.py) |
 | 58 | [What's so complex about Mandelbrot?](https://www.codingame.com/training/easy/whats-so-complex-about-mandelbrot) | ✔️ Completed | Easy |  [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/WhatsSoComplexAboutTheMandelbrotSet.cpp), [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/WhatsSoComplexAboutTheMandelbrotSet.py)     |
 | 59 | [XML MDF-2016](https://www.codingame.com/training/easy/xml-mdf-2016)  | :x: Not Completed | Easy |  |
 
