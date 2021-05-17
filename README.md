@@ -2,12 +2,12 @@
 
 ## Introduction
 
-In this reposority you will find my working solutions for puzzles on https://www.codingame.com/.
+In this repository you will find my working solutions for puzzles on https://www.codingame.com/.
 
 
 ## Puzzles
 
-### Easy (36/61 completed)
+### Easy (37/61 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -26,7 +26,7 @@ In this reposority you will find my working solutions for puzzles on https://www
 | 13 | [Darts](https://www.codingame.com/training/easy/darts) | :x: Not Completed | Easy | |
 | 14 | [Dead men's shot](https://www.codingame.com/training/easy/dead-mens-shot) | :x: Not Completed | Easy | |
 | 15 | [Defibrillators](https://www.codingame.com/training/easy/defibrillators) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/Defibrillators.py) |
-| 16 | [Detective Pikaptcha Ep1](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)  | :x: Not Completed | Easy |  |
+| 16 | [Detective Pikaptcha Ep1](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)  | ✔️ Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/DetectivePikaptcha_ep1.py) |
 | 17 | [Detective Pikaptcha Ep2](https://www.codingame.com/training/easy/detective-pikaptcha-ep2)  | :x: Not Completed | Easy |  |
 | 18 | [Disordered First Contact](https://www.codingame.com/training/easy/disordered-first-contact) | :x: Not Completed | Easy | |
 | 19 | [Encryption/Decryption of Enigma Machine](https://www.codingame.com/training/easy/encryptiondecryption-of-enigma-machine) | :x: Not Completed | Easy | |
