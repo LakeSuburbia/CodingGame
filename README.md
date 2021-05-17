@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this reposority you will find my working solutions for puzzles on https://www.codingame.com/.
+In this repository you will find my working solutions for puzzles on https://www.codingame.com/.
 
 
 ## Puzzles
