@@ -183,7 +183,7 @@ In this repository you will find my working solutions for puzzles on https://www
 | 104 | [War](https://www.codingame.com/training/medium/winamax-battle)  | :x: Not Completed | Medium |  |
 
 
-### Hard (1/106 completed)
+### Hard (2/106 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -260,7 +260,7 @@ In this repository you will find my working solutions for puzzles on https://www
 | 72 | [Skynet Revolution - Episode 2](https://www.codingame.com/training/hard/skynet-revolution-episode-2) | :x: Not Completed | Hard |  |
 | 73 | [Spreadsheet Labels](https://www.codingame.com/training/hard/spreadsheet-labels) | :x: Not Completed | Hard |  |
 | 74 | [Sum of odd](https://www.codingame.com/training/hard/sum-of-odd) | :x: Not Completed | Hard |  |
-| 75 | [Super Computer](https://www.codingame.com/training/hard/super-computer) | :x: Not Completed | Hard |  |
+| 75 | [Super Computer](https://www.codingame.com/training/hard/super-computer) | ✔️ Completed | Hard | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/HARD/PYTHON/SuperComputer.py) |
 | 76 | [Surface](https://www.codingame.com/training/hard/surface) | :x: Not Completed | Hard |  |
 | 77 | [Symbolic system of equations](https://www.codingame.com/training/hard/symbolic-system-of-equations) | :x: Not Completed | Hard |  |
 | 78 | [TAN Network](https://www.codingame.com/training/hard/tan-network) | :x: Not Completed | Hard |  |
