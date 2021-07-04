@@ -24,7 +24,7 @@ In this repository you will find my working solutions for puzzles on https://www
 | 11 | [Chuck Norris](https://www.codingame.com/training/easy/chuck-norris) | :heavy_check_mark: Completed | Easy | [C++](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/C%2B%2B/ChuckNorris.cpp)  |
 | 12 | [Container Terminal](https://www.codingame.com/training/easy/container-terminal/discuss) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/ContainerTerminal.py)  |
 | 13 | [Credit Card Verifier (Luhn's Algorithm)](https://www.codingame.com/training/easy/credit-card-verifier-luhns-algorithm) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/CreditCardVerifier.py)  |
-| 14 | [Custom Game of Life] (https://www.codingame.com/training/easy/custom-game-of-life) | ✔️ Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/CustomGameOfLife.py) |
+| 14 | [Custom Game of Life](https://www.codingame.com/training/easy/custom-game-of-life) | ✔️ Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/CustomGameOfLife.py) |
 | 15 | [Darts](https://www.codingame.com/training/easy/darts) | :x: Not Completed | Easy | |
 | 16 | [Dead men's shot](https://www.codingame.com/training/easy/dead-mens-shot) | :x: Not Completed | Easy | |
 | 17 | [Defibrillators](https://www.codingame.com/training/easy/defibrillators) | :heavy_check_mark: Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/Defibrillators.py) |
