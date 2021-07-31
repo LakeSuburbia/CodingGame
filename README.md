@@ -177,7 +177,7 @@ In this repository you will find my working solutions for puzzles on https://www
 | 93 | [The Gift](https://www.codingame.com/training/medium/the-gift) | :x: Not Completed | Medium |  |
 | 94 | [The Grand Festival - I](https://www.codingame.com/training/medium/the-grand-festival---i) | :x: Not Completed | Medium |  |
 | 95 | [The Grand Festival - II](https://www.codingame.com/training/medium/the-grand-festival---ii) | :x: Not Completed | Medium |  |
-| 96 | [The Last Crusade - Episode 1](https://www.codingame.com/training/medium/the-last-crusade-episode-1) | :x: Not Completed | Medium |  |
+| 96 | [The Last Crusade - Episode 1](https://www.codingame.com/training/medium/the-last-crusade-episode-1) | ✔️ Completed | Medium | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/MEDIUM/PYTHON/TheLastCrusade_EP1.py) |
 | 97 | [The Optimal Urinal Problem](https://www.codingame.com/training/medium/the-optimal-urinal-problem) | :x: Not Completed | Medium |  |
 | 98 | [The Ultimate Test](https://www.codingame.com/training/medium/the-ultimate-test) | :x: Not Completed | Medium |  |
 | 99 | [The Urinal Problem](https://www.codingame.com/training/medium/the-urinal-problem) | :x: Not Completed | Medium |  |
