@@ -6,7 +6,7 @@ n = int(input())
 goldBars = [int(i) for i in input().split() if int(i) <= length]
 mem = 0
 finalSet = []
-for i in range(n):
+for i in range(n+1):
     comboBars = itertools.combinations(goldBars, i)
     for combo in comboBars:
         sumComboBar = sum(combo)
