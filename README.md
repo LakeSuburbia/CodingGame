@@ -7,7 +7,7 @@ In this repository you will find my working solutions for puzzles on https://www
 
 ## Puzzles
 
-### Easy (43/67 completed)
+### Easy (44/68 completed)
 
 | No. | Puzzle Name | State| Difficulty | Languages |
 |-----|-------------|------|------------|-----------|
@@ -34,6 +34,7 @@ In this repository you will find my working solutions for puzzles on https://www
 | 21 | [Encryption/Decryption of Enigma Machine](https://www.codingame.com/training/easy/encryptiondecryption-of-enigma-machine) | :x: Not Completed | Easy | |
 | 22 | [Expand the polynomial](https://www.codingame.com/training/easy/expand-the-polynomial) | :x: Not Completed | Easy | |
 | 23 | [Ghost Legs](https://www.codingame.com/training/easy/ghost-legs) | :x: Not Completed | Easy | |
+| 24 | [Gold Packing](https://www.codingame.com/training/easy/gold-packing) | ✔️ Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/GoldPacking.py) |
 | 24 | [Gravity Tumbler](https://www.codingame.com/training/easy/gravity-tumbler) | :x: Not Completed | Easy | |
 | 25 | [Guessing n Cheating](https://www.codingame.com/training/easy/guessing-n-cheating) | :x: Not Completed | Easy | |
 | 26 | [Happy Numbers](https://www.codingame.com/training/easy/happy-numbers) | ✔️ Completed | Easy | [Python](https://github.com/LakeSuburbia/CodingGame/blob/main/Puzzles/EASY/Python/HappyNumbers.py) |
